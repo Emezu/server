@@ -68,6 +68,11 @@ PID   COMMAND   %MEM
 ...
 ```
 
+PROJECT URL 
+```python
+https://roadmap.sh/projects/server-stats
+```
+
 ### Disclaimer
 This script has been tested to improve server performance...or at least observe it while it gets tired. Just remember: with great power (and CPU usage) comes great responsibility! 😄
 
